@@ -1,0 +1,85 @@
+D:\MVC\SAPO.Demo.MVC.ECommerce\SAPO.Demo.MVC.ECommerce\bin\SAPO.Demo.MVC.ECommerce.dll
+D:\MVC\SAPO.Demo.MVC.ECommerce\SAPO.Demo.MVC.ECommerce\bin\SAPO.Demo.MVC.ECommerce.pdb
+D:\MVC\SAPO.Demo.MVC.ECommerce\SAPO.Demo.MVC.ECommerce\bin\Microsoft.Web.Infrastructure.dll
+D:\MVC\SAPO.Demo.MVC.ECommerce\SAPO.Demo.MVC.ECommerce\bin\Newtonsoft.Json.dll
+D:\MVC\SAPO.Demo.MVC.ECommerce\SAPO.Demo.MVC.ECommerce\bin\System.Net.Http.Formatting.dll
+D:\MVC\SAPO.Demo.MVC.ECommerce\SAPO.Demo.MVC.ECommerce\bin\System.Web.Helpers.dll
+D:\MVC\SAPO.Demo.MVC.ECommerce\SAPO.Demo.MVC.ECommerce\bin\System.Web.Http.dll
+D:\MVC\SAPO.Demo.MVC.ECommerce\SAPO.Demo.MVC.ECommerce\bin\System.Web.Http.WebHost.dll
+D:\MVC\SAPO.Demo.MVC.ECommerce\SAPO.Demo.MVC.ECommerce\bin\System.Web.Mvc.dll
+D:\MVC\SAPO.Demo.MVC.ECommerce\SAPO.Demo.MVC.ECommerce\bin\System.Web.Razor.dll
+D:\MVC\SAPO.Demo.MVC.ECommerce\SAPO.Demo.MVC.ECommerce\bin\System.Web.WebPages.Deployment.dll
+D:\MVC\SAPO.Demo.MVC.ECommerce\SAPO.Demo.MVC.ECommerce\bin\System.Web.WebPages.dll
+D:\MVC\SAPO.Demo.MVC.ECommerce\SAPO.Demo.MVC.ECommerce\bin\System.Web.WebPages.Razor.dll
+D:\MVC\SAPO.Demo.MVC.ECommerce\SAPO.Demo.MVC.ECommerce\bin\Newtonsoft.Json.xml
+D:\MVC\SAPO.Demo.MVC.ECommerce\SAPO.Demo.MVC.ECommerce\bin\System.Net.Http.Formatting.xml
+D:\MVC\SAPO.Demo.MVC.ECommerce\SAPO.Demo.MVC.ECommerce\bin\System.Web.Helpers.xml
+D:\MVC\SAPO.Demo.MVC.ECommerce\SAPO.Demo.MVC.ECommerce\bin\System.Web.Http.xml
+D:\MVC\SAPO.Demo.MVC.ECommerce\SAPO.Demo.MVC.ECommerce\bin\System.Web.Http.WebHost.xml
+D:\MVC\SAPO.Demo.MVC.ECommerce\SAPO.Demo.MVC.ECommerce\bin\System.Web.Mvc.xml
+D:\MVC\SAPO.Demo.MVC.ECommerce\SAPO.Demo.MVC.ECommerce\bin\System.Web.Razor.xml
+D:\MVC\SAPO.Demo.MVC.ECommerce\SAPO.Demo.MVC.ECommerce\bin\System.Web.WebPages.xml
+D:\MVC\SAPO.Demo.MVC.ECommerce\SAPO.Demo.MVC.ECommerce\bin\System.Web.WebPages.Deployment.xml
+D:\MVC\SAPO.Demo.MVC.ECommerce\SAPO.Demo.MVC.ECommerce\bin\System.Web.WebPages.Razor.xml
+D:\MVC\SAPO.Demo.MVC.ECommerce\SAPO.Demo.MVC.ECommerce\obj\Debug\SAPO.Demo.MVC.ECommerce.csprojResolveAssemblyReference.cache
+D:\MVC\SAPO.Demo.MVC.ECommerce\SAPO.Demo.MVC.ECommerce\obj\Debug\SAPO.Demo.MVC.ECommerce.dll
+D:\MVC\SAPO.Demo.MVC.ECommerce\SAPO.Demo.MVC.ECommerce\obj\Debug\SAPO.Demo.MVC.ECommerce.pdb
+D:\MVC\SAPO.Demo.MVC.ECommerce\SAPO.Demo.MVC.ECommerce\bin\System.Web.Optimization.dll
+D:\MVC\SAPO.Demo.MVC.ECommerce\SAPO.Demo.MVC.ECommerce\bin\WebGrease.dll
+D:\MVC\SAPO.Demo.MVC.ECommerce\SAPO.Demo.MVC.ECommerce\bin\Antlr3.Runtime.dll
+\\vmware-host\Shared Folders\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\SAPO.Demo.MVC.ECommerce.dll
+\\vmware-host\Shared Folders\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\SAPO.Demo.MVC.ECommerce.pdb
+\\vmware-host\Shared Folders\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\Microsoft.Web.Infrastructure.dll
+\\vmware-host\Shared Folders\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\Newtonsoft.Json.dll
+\\vmware-host\Shared Folders\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Net.Http.Formatting.dll
+\\vmware-host\Shared Folders\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Web.Helpers.dll
+\\vmware-host\Shared Folders\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Web.Http.dll
+\\vmware-host\Shared Folders\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Web.Http.WebHost.dll
+\\vmware-host\Shared Folders\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Web.Mvc.dll
+\\vmware-host\Shared Folders\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Web.Razor.dll
+\\vmware-host\Shared Folders\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Web.WebPages.Deployment.dll
+\\vmware-host\Shared Folders\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Web.WebPages.dll
+\\vmware-host\Shared Folders\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Web.WebPages.Razor.dll
+\\vmware-host\Shared Folders\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\WebGrease.dll
+\\vmware-host\Shared Folders\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\Antlr3.Runtime.dll
+\\vmware-host\Shared Folders\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\Newtonsoft.Json.xml
+\\vmware-host\Shared Folders\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Net.Http.Formatting.xml
+\\vmware-host\Shared Folders\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Web.Helpers.xml
+\\vmware-host\Shared Folders\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Web.Http.xml
+\\vmware-host\Shared Folders\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Web.Http.WebHost.xml
+\\vmware-host\Shared Folders\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Web.Mvc.xml
+\\vmware-host\Shared Folders\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Web.Razor.xml
+\\vmware-host\Shared Folders\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Web.WebPages.xml
+\\vmware-host\Shared Folders\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Web.WebPages.Deployment.xml
+\\vmware-host\Shared Folders\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Web.WebPages.Razor.xml
+\\vmware-host\Shared Folders\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\obj\Debug\SAPO.Demo.MVC.ECommerce.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\obj\Debug\SAPO.Demo.MVC.ECommerce.dll
+\\vmware-host\Shared Folders\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\obj\Debug\SAPO.Demo.MVC.ECommerce.pdb
+C:\Users\Mruthyunjay\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\SAPO.Demo.MVC.ECommerce.dll
+C:\Users\Mruthyunjay\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\SAPO.Demo.MVC.ECommerce.pdb
+C:\Users\Mruthyunjay\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mruthyunjay\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\Newtonsoft.Json.dll
+C:\Users\Mruthyunjay\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Net.Http.Formatting.dll
+C:\Users\Mruthyunjay\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Web.Helpers.dll
+C:\Users\Mruthyunjay\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Web.Http.dll
+C:\Users\Mruthyunjay\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Web.Http.WebHost.dll
+C:\Users\Mruthyunjay\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Web.Mvc.dll
+C:\Users\Mruthyunjay\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Web.Razor.dll
+C:\Users\Mruthyunjay\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mruthyunjay\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Web.WebPages.dll
+C:\Users\Mruthyunjay\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mruthyunjay\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\WebGrease.dll
+C:\Users\Mruthyunjay\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\Antlr3.Runtime.dll
+C:\Users\Mruthyunjay\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\Newtonsoft.Json.xml
+C:\Users\Mruthyunjay\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Net.Http.Formatting.xml
+C:\Users\Mruthyunjay\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Web.Helpers.xml
+C:\Users\Mruthyunjay\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Web.Http.xml
+C:\Users\Mruthyunjay\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Web.Http.WebHost.xml
+C:\Users\Mruthyunjay\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Web.Mvc.xml
+C:\Users\Mruthyunjay\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Web.Razor.xml
+C:\Users\Mruthyunjay\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Web.WebPages.xml
+C:\Users\Mruthyunjay\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mruthyunjay\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mruthyunjay\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\obj\Debug\SAPO.Demo.MVC.ECommerce.csprojResolveAssemblyReference.cache
+C:\Users\Mruthyunjay\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\obj\Debug\SAPO.Demo.MVC.ECommerce.dll
+C:\Users\Mruthyunjay\Documents\MVC 4 Razor Design Sample Demo Project\C#\SAPO.Demo.MVC.ECommerce\obj\Debug\SAPO.Demo.MVC.ECommerce.pdb
